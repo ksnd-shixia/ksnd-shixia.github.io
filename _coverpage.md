@@ -1,6 +1,7 @@
 <!-- _coverpage.md -->
 
 # 矽夏的個人網站
+![color](#f0f0f0)
 
 > 💪使用Docsify建站，~~為了做學習歷程~~
 
