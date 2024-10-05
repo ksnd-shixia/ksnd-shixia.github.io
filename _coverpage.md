@@ -11,4 +11,4 @@
 
 [开始使用](/README.md)
 
-![color](#DFDFDF)
+![color](#2F2F2F)
